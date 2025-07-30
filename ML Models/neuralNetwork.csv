@@ -1,163 +1,163 @@
-"COUNTRY,Predicted Fertility Rate 2024"
-"Afghanistan,4.484157"
-"Albania,1.5438336"
-"Algeria,2.6748416"
-"Angola,4.811356"
-"Argentina,2.0239758"
-"Armenia,1.8181995"
-"Australia,1.704719"
-"Austria,1.6176673"
-"Azerbaijan,1.7894286"
-"Bahamas,1.8415662"
-"Bahrain,1.6603204"
-"Bangladesh,2.131988"
-"Belarus,1.617968"
-"Belgium,1.7019511"
-"Belize,1.7057673"
-"Benin,4.519282"
-"Bhutan,2.014903"
-"Bolivia,2.2715716"
-"Bosnia and Herzegovina,1.6024642"
-"Brazil,1.5128309"
-"Bulgaria,1.5554811"
-"Burkina Faso,4.403599"
-"Burundi,4.6407733"
-"Cambodia,2.2692268"
-"Cameroon,4.353196"
-"Canada,1.4437408"
-"Central African Republic,5.6554446"
-"Chad,6.0575705"
-"Chile,1.4750513"
-"China,1.3198214"
-"Colombia,1.7931026"
-"Comoros,3.3440115"
-"Congo,3.9021657"
-"Congo (Democratic Republic of),5.835319"
-"Costa Rica,1.4196122"
-"Cote d'Ivoire,4.034314"
-"Croatia,1.5905504"
-"Cuba,1.6271969"
-"Cyprus,1.5575235"
-"Denmark,1.8283037"
-"Dominica,1.5740168"
-"Dominican Republic,1.8955065"
-"Ecuador,1.70874"
-"Egypt,2.1354647"
-"El Salvador,1.8198521"
-"Equatorial Guinea,3.6958008"
-"Eritrea,3.4894414"
-"Estonia,1.415682"
-"Ethiopia,3.7600446"
-"Fiji,1.7126135"
-"Finland,2.0380614"
-"France,1.6615463"
-"Gabon,3.02039"
-"Gambia,3.6869736"
-"Georgia,1.7707521"
-"Germany,1.6985947"
-"Ghana,3.2049515"
-"Greece,1.614335"
-"Guatemala,2.005696"
-"Guinea,4.5373325"
-"Guyana,1.576043"
-"Haiti,2.9176295"
-"Honduras,2.3222582"
-"Hungary,1.5279313"
-"Iceland,1.8897848"
-"India,1.8672589"
-"Indonesia,2.030698"
-"Iran,1.6694063"
-"Iraq,2.6988153"
-"Ireland,2.02364"
-"Israel,2.1771753"
-"Italy,1.6583444"
-"Jamaica,1.7577403"
-"Japan,1.5365965"
-"Jordan,2.166952"
-"Kazakhstan,2.358147"
-"Kenya,3.151758"
-"Kiribati,3.0920432"
-"Kuwait,2.2314103"
-"Kyrgyzstan,1.54964"
-"Laos,2.4891932"
-"Latvia,1.4735818"
-"Lebanon,2.2670887"
-"Lesotho,3.2552297"
-"Liberia,4.149298"
-"Lithuania,1.3763684"
-"Luxembourg,2.3836343"
-"Madagascar,4.3370557"
-"Malawi,3.5675938"
-"Malaysia,1.5761665"
-"Maldives,1.5898103"
-"Mali,5.5437465"
-"Malta,1.4105535"
-"Mauritania,3.977923"
-"Mexico,1.6338638"
-"Moldova,1.7516762"
-"Mongolia,2.4105175"
-"Montenegro,1.6485887"
-"Morocco,1.8081795"
-"Mozambique,4.6122994"
-"Myanmar,2.2732604"
-"Namibia,2.9838593"
-"Nepal,2.0656931"
-"Netherlands,1.740476"
-"New Zealand,1.6161295"
-"Nicaragua,2.0802257"
-"Niger,6.3371005"
-"Nigeria,4.82037"
-"North Macedonia,1.5880393"
-"Norway,1.9209118"
-"Oman,1.799367"
-"Pakistan,3.4835215"
-"Palau,1.478355"
-"Panama,1.590424"
-"Papua New Guinea,2.8575246"
-"Paraguay,1.9255011"
-"Peru,1.9916269"
-"Philippines,1.9916772"
-"Poland,1.4149691"
-"Portugal,1.4685558"
-"Qatar,1.7786232"
-"Romania,1.536215"
-"Russia,1.4715884"
-"Rwanda,3.3970282"
-"San Marino,1.6801369"
-"Sao Tome and Principe,3.1733692"
-"Sauda Arabia,2.039769"
-"Senegal,3.4269927"
-"Serbia,1.6949981"
-"Sierra Leone,4.436775"
-"Singapore,1.801504"
-"Slovakia,1.4089466"
-"Slovenia,1.5877273"
-"South Africa,2.1170313"
-"South Korea,1.4264739"
-"South Sudan,4.335832"
-"Spain,1.4928795"
-"Sri Lanka,1.7745461"
-"Sudan,3.868248"
-"Sweden,1.7330481"
-"Switzerland,1.9916052"
-"Syria,2.5345778"
-"Tajikistan,2.7450306"
-"Tanzania,4.3114867"
-"Thailand,1.488933"
-"Timor-Leste,2.7039254"
-"Togo,3.8315804"
-"Tonga,2.604771"
-"Turkey,1.3937057"
-"Turkmenistan,2.1506917"
-"Uganda,4.09917"
-"Ukraine,1.6268107"
-"United Arab Emirates,1.5242189"
-"United Kingdom,1.6854796"
-"United States,1.8059493"
-"Uruguay,1.3538617"
-"Uzbekistan,2.9494178"
-"Venezuela,1.5643715"
-"Vietnam,1.8997084"
-"Yemen,4.138542"
-"Zambia,4.096029"
-"Zimbabwe,3.6693914"
+COUNTRY,Predicted Fertility Rate 2024
+Afghanistan,4.484157
+Albania,1.5438336
+Algeria,2.6748416
+Angola,4.811356
+Argentina,2.0239758
+Armenia,1.8181995
+Australia,1.704719
+Austria,1.6176673
+Azerbaijan,1.7894286
+Bahamas,1.8415662
+Bahrain,1.6603204
+Bangladesh,2.131988
+Belarus,1.617968
+Belgium,1.7019511
+Belize,1.7057673
+Benin,4.519282
+Bhutan,2.014903
+Bolivia,2.2715716
+Bosnia and Herzegovina,1.6024642
+Brazil,1.5128309
+Bulgaria,1.5554811
+Burkina Faso,4.403599
+Burundi,4.6407733
+Cambodia,2.2692268
+Cameroon,4.353196
+Canada,1.4437408
+Central African Republic,5.6554446
+Chad,6.0575705
+Chile,1.4750513
+China,1.3198214
+Colombia,1.7931026
+Comoros,3.3440115
+Congo,3.9021657
+Congo (Democratic Republic of),5.835319
+Costa Rica,1.4196122
+Cote d'Ivoire,4.034314
+Croatia,1.5905504
+Cuba,1.6271969
+Cyprus,1.5575235
+Denmark,1.8283037
+Dominica,1.5740168
+Dominican Republic,1.8955065
+Ecuador,1.70874
+Egypt,2.1354647
+El Salvador,1.8198521
+Equatorial Guinea,3.6958008
+Eritrea,3.4894414
+Estonia,1.415682
+Ethiopia,3.7600446
+Fiji,1.7126135
+Finland,2.0380614
+France,1.6615463
+Gabon,3.02039
+Gambia,3.6869736
+Georgia,1.7707521
+Germany,1.6985947
+Ghana,3.2049515
+Greece,1.614335
+Guatemala,2.005696
+Guinea,4.5373325
+Guyana,1.576043
+Haiti,2.9176295
+Honduras,2.3222582
+Hungary,1.5279313
+Iceland,1.8897848
+India,1.8672589
+Indonesia,2.030698
+Iran,1.6694063
+Iraq,2.6988153
+Ireland,2.02364
+Israel,2.1771753
+Italy,1.6583444
+Jamaica,1.7577403
+Japan,1.5365965
+Jordan,2.166952
+Kazakhstan,2.358147
+Kenya,3.151758
+Kiribati,3.0920432
+Kuwait,2.2314103
+Kyrgyzstan,1.54964
+Laos,2.4891932
+Latvia,1.4735818
+Lebanon,2.2670887
+Lesotho,3.2552297
+Liberia,4.149298
+Lithuania,1.3763684
+Luxembourg,2.3836343
+Madagascar,4.3370557
+Malawi,3.5675938
+Malaysia,1.5761665
+Maldives,1.5898103
+Mali,5.5437465
+Malta,1.4105535
+Mauritania,3.977923
+Mexico,1.6338638
+Moldova,1.7516762
+Mongolia,2.4105175
+Montenegro,1.6485887
+Morocco,1.8081795
+Mozambique,4.6122994
+Myanmar,2.2732604
+Namibia,2.9838593
+Nepal,2.0656931
+Netherlands,1.740476
+New Zealand,1.6161295
+Nicaragua,2.0802257
+Niger,6.3371005
+Nigeria,4.82037
+North Macedonia,1.5880393
+Norway,1.9209118
+Oman,1.799367
+Pakistan,3.4835215
+Palau,1.478355
+Panama,1.590424
+Papua New Guinea,2.8575246
+Paraguay,1.9255011
+Peru,1.9916269
+Philippines,1.9916772
+Poland,1.4149691
+Portugal,1.4685558
+Qatar,1.7786232
+Romania,1.536215
+Russia,1.4715884
+Rwanda,3.3970282
+San Marino,1.6801369
+Sao Tome and Principe,3.1733692
+Sauda Arabia,2.039769
+Senegal,3.4269927
+Serbia,1.6949981
+Sierra Leone,4.436775
+Singapore,1.801504
+Slovakia,1.4089466
+Slovenia,1.5877273
+South Africa,2.1170313
+South Korea,1.4264739
+South Sudan,4.335832
+Spain,1.4928795
+Sri Lanka,1.7745461
+Sudan,3.868248
+Sweden,1.7330481
+Switzerland,1.9916052
+Syria,2.5345778
+Tajikistan,2.7450306
+Tanzania,4.3114867
+Thailand,1.488933
+Timor-Leste,2.7039254
+Togo,3.8315804
+Tonga,2.604771
+Turkey,1.3937057
+Turkmenistan,2.1506917
+Uganda,4.09917
+Ukraine,1.6268107
+United Arab Emirates,1.5242189
+United Kingdom,1.6854796
+United States,1.8059493
+Uruguay,1.3538617
+Uzbekistan,2.9494178
+Venezuela,1.5643715
+Vietnam,1.8997084
+Yemen,4.138542
+Zambia,4.096029
+Zimbabwe,3.6693914
